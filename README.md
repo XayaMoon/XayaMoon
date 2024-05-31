@@ -1,6 +1,6 @@
 <h2 align="center">Hello there, I'm Leonardo:large_orange_diamond:</h2>
 <p  align="center">
-I'm currently studying Aeronautical Engineering at UANL:airplane::rocket:<br>Starting with code, I'm still new with this<br>Reach me at <b>jleonardvo23@gmail.com</b>
+I'm currently studying Aeronautical Engineering at UANL<br>Starting with code, I'm still new with this<br>Reach me at <b>jleonardvo23@gmail.com</b>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
